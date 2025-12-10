@@ -1,5 +1,5 @@
 # 🐐 David (Kwaku) Dosu  
-**`Backend Engineer, Data Analyst, and MPhil Student in Information Systems`**
+**`Backend Engineer | Data Analyst | MPhil Student in Information Systems`**
 
 I am a Backend Developer with strong experience in designing and maintaining reliable server-side applications.  
 I specialize in C#, ASP.NET, API development, database design, system performance, and data analysis.  
