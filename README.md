@@ -2,7 +2,7 @@
 **`Backend Engineer | Data Analyst | MPhil Student in Information Systems`**
 
 I am a Backend Developer with strong experience in designing and maintaining reliable server-side applications.  
-I specialize in C#, ASP.NET, API development, database design, system performance, and data analysis.  
+I specialize in C#, ASP.NET, API development, database design, system performance, wordpress development, and data analysis.  
 I am also pursuing an MPhil in Information Systems, strengthening my expertise in systems thinking, data management, and digital transformation.
 
 I build systems that solve real business problems, support growth, and stay maintainable over time.
